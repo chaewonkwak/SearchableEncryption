@@ -1,0 +1,2 @@
+﻿  AES.c
+C:\Users\umc\source\repos\FB_DSSE\FB_DSSE\AES.h(5,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'openssl/evp.h': No such file or directory
