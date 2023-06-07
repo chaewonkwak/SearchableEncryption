@@ -1,0 +1,16 @@
+﻿  CommonUtil.c
+  GGMTree.cpp
+C:\Users\Chaewon Kwak\Desktop\Aura\Aura\GGMTree.cpp(4,23): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SSEClientHandler.cpp
+C:\Users\Chaewon Kwak\Desktop\Aura\Aura\SSEClientHandler.cpp(21,58): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Chaewon Kwak\Desktop\Aura\Aura\SSEClientHandler.cpp(49,22): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Chaewon Kwak\Desktop\Aura\Aura\SSEClientHandler.cpp(74,22): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SSEServerHandler.cpp
+C:\Users\Chaewon Kwak\Desktop\Aura\Aura\SSEServerHandler.cpp(44,28): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SSETest.cpp
+  코드를 생성하고 있습니다.
+  25 of 1040 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    16 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Aura.vcxproj -> C:\Users\Chaewon Kwak\Desktop\Aura\x64\Release\Aura.exe

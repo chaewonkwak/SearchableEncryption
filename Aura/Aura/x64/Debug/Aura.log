@@ -1,0 +1,14 @@
+﻿  CommonUtil.c
+  GGMTree.cpp
+C:\Users\umc\source\repos\Aura\Aura\GGMTree.cpp(4,23): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SSEClientHandler.cpp
+C:\Users\umc\source\repos\Aura\Aura\SSEClientHandler.cpp(21,58): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\umc\source\repos\Aura\Aura\SSEClientHandler.cpp(49,22): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\umc\source\repos\Aura\Aura\SSEClientHandler.cpp(74,22): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SSEServerHandler.cpp
+C:\Users\umc\source\repos\Aura\Aura\SSEServerHandler.cpp(44,28): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SSETest.cpp
+C:\Users\umc\source\repos\Aura\Aura\SSETest.cpp(14,20): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\umc\source\repos\Aura\Aura\SSETest.cpp(16,20): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Aura.vcxproj -> C:\Users\umc\source\repos\Aura\x64\Debug\Aura.exe
