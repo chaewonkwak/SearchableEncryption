@@ -1,0 +1,41 @@
+bitLen: 10
+Update Time:
+99490
+Search Time:
+93100
+
+bitLen: 100
+Update Time:
+339380
+Search Time:
+120300
+
+bitLen: 1000
+Update Time:
+1181275
+Search Time:
+172800
+
+bitLen: 10000
+Update Time:
+3782590
+Search Time:
+182300
+
+bitLen: 100000
+Update Time:
+6490025
+Search Time:
+197100
+
+bitLen: 1000000
+Update Time:
+10925665
+Search Time:
+218100
+
+bitLen: 10000000
+Update Time:
+18408315
+Search Time:
+291300
